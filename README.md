@@ -58,7 +58,7 @@ Some of my notable projects:
 ---
 
 ## 📫 **Let’s Connect!**
-- **GitHub**: [github.com/yourusername](https://github.com/ibraheem101)  
-- **LinkedIn**: [linkedin.com/in/yourusername]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/ibraheemkekere-ekun/))  
+- **GitHub**: [github.com/ibraheem101](https://github.com/ibraheem101)  
+- **LinkedIn**: [linkedin.com/in/ibraheemkekere-ekun]([[https://linkedin.com/in/yourusername](https://www.linkedin.com/in/ibraheemkekere-ekun/)](https://www.linkedin.com/in/ibraheemkekere-ekun/))  
 
 ---
