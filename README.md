@@ -1,6 +1,6 @@
 # 🌟 **Hi, I’m Ibraheem Kekere-Ekun!** 👋  
 
-### 🚀 **Tech Enthusiast | Data Explorer | Problem Solver**  
+### 🚀 **Data Scientist**  
 I’m a passionate **Data Scientist** who loves building projects that **turn data into actionable insights**.
 
 ---
@@ -28,6 +28,8 @@ Here are the tools and technologies I work with:
 
 ---
 
+<!---
+
 ## 📚 **Current Projects**
 Here’s what I’m currently working on:  
 - 🔍 **Fraudulent Ride Detection**: Analyzing transportation data to detect anomalies and predict fraud using **PostgreSQL**, **Python**, and **Machine Learning**.  
@@ -35,7 +37,6 @@ Here’s what I’m currently working on:
 
 ---
 
-<!---
 ## 🌟 **Portfolio Highlights**
 Some of my notable projects:  
 1. **[Fraud Detection in Credit Card Transactions](#)**:  
